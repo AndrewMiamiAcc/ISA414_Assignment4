@@ -1,5 +1,5 @@
 ---
-title: RXpizzeria
+title: Andrew's Tavern
 emoji: 🐢
 colorFrom: yellow
 colorTo: yellow
